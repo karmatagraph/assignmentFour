@@ -27,7 +27,7 @@ class DisplayViewController: UIViewController {
         
         title = "Display salary"
         mapSalaries(sal: salaries)
-        print(salaries)
+//        print(salaries)
 
     }
     
