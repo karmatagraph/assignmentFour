@@ -76,7 +76,7 @@
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="Done"/>
                                         <connections>
-                                            <action selector="nextTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DSR-Qq-fnw"/>
+                                            <action selector="doneBtnClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qm7-1x-hZW"/>
                                             <segue destination="AsH-Pf-21x" kind="show" identifier="input to display" id="mzt-hP-n4Z"/>
                                         </connections>
                                     </button>
